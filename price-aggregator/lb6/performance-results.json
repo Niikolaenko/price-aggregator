@@ -1,0 +1,13 @@
+{
+  "testName": "Performance_MockObjects",
+  "iterations": 5,
+  "mockObjects": {
+    "timeMs": 0.215,
+    "sentCount": 5
+  },
+  "realObjects": {
+    "timeMs": 500.469,
+    "sentCount": 5
+  },
+  "conclusion": "Mock-objects виконуються швидше, тому що не запускають реальний UDP-сервер і не працюють з файлами JSON."
+}

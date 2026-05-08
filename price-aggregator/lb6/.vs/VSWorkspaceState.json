@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\helpers",
+    "\\tests",
+    "\\tests\\integration",
+    "\\tests\\unit"
+  ],
+  "SelectedNode": "\\helpers\\udpClient.js",
+  "PreviewInSolutionExplorer": false
+}

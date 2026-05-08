@@ -1,0 +1,11 @@
+{
+  "name": "price-aggregator-lb6",
+  "version": "1.0.0",
+  "description": "Lab 6: automation testing for price-aggregator project",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test --test-concurrency=1 \"tests/**/*.test.js\"",
+    "test:unit": "node --test --test-concurrency=1 \"tests/unit/**/*.test.js\"",
+    "test:integration": "node --test --test-concurrency=1 \"tests/integration/**/*.test.js\""
+  }
+}

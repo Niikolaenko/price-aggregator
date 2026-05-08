@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\helpers\\udpClient.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:helpers\\udpClient.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\helpers\\serverProcess.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:helpers\\serverProcess.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\helpers\\databaseBackup.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:helpers\\databaseBackup.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\tests\\integration\\server.integration.test.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\integration\\server.integration.test.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\tests\\integration\\performance.comparison.test.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\integration\\performance.comparison.test.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\tests\\unit\\clientController.test.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\unit\\clientController.test.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\tests\\unit\\product.test.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\unit\\product.test.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\tests\\unit\\user.test.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\unit\\user.test.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "udpClient.js",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\helpers\\udpClient.js",
+              "RelativeDocumentMoniker": "helpers\\udpClient.js",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\helpers\\udpClient.js",
+              "RelativeToolTip": "helpers\\udpClient.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-08T06:52:52.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "serverProcess.js",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\helpers\\serverProcess.js",
+              "RelativeDocumentMoniker": "helpers\\serverProcess.js",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\helpers\\serverProcess.js",
+              "RelativeToolTip": "helpers\\serverProcess.js",
+              "ViewState": "AgIAADMAAAAAAAAAAABQvQAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-08T06:52:49.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "databaseBackup.js",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\helpers\\databaseBackup.js",
+              "RelativeDocumentMoniker": "helpers\\databaseBackup.js",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\helpers\\databaseBackup.js",
+              "RelativeToolTip": "helpers\\databaseBackup.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-08T06:52:42.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "server.integration.test.js",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\tests\\integration\\server.integration.test.js",
+              "RelativeDocumentMoniker": "tests\\integration\\server.integration.test.js",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\tests\\integration\\server.integration.test.js",
+              "RelativeToolTip": "tests\\integration\\server.integration.test.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-08T06:28:06.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "performance.comparison.test.js",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\tests\\integration\\performance.comparison.test.js",
+              "RelativeDocumentMoniker": "tests\\integration\\performance.comparison.test.js",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\tests\\integration\\performance.comparison.test.js",
+              "RelativeToolTip": "tests\\integration\\performance.comparison.test.js",
+              "ViewState": "AgIAAE4AAAAAAAAAAABQvV4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-08T06:27:56.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clientController.test.js",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\tests\\unit\\clientController.test.js",
+              "RelativeDocumentMoniker": "tests\\unit\\clientController.test.js",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\tests\\unit\\clientController.test.js",
+              "RelativeToolTip": "tests\\unit\\clientController.test.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-08T06:21:26.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "product.test.js",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\tests\\unit\\product.test.js",
+              "RelativeDocumentMoniker": "tests\\unit\\product.test.js",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\tests\\unit\\product.test.js",
+              "RelativeToolTip": "tests\\unit\\product.test.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-08T06:20:18.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "user.test.js",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\tests\\unit\\user.test.js",
+              "RelativeDocumentMoniker": "tests\\unit\\user.test.js",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\Telegram Desktop\\price-aggregator (6 lb)\\price-aggregator\\lb6\\tests\\unit\\user.test.js",
+              "RelativeToolTip": "tests\\unit\\user.test.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-08T06:11:49.832Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
